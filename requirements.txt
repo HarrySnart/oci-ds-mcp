@@ -1,0 +1,8 @@
+fastmcp
+oci
+oracle-ads
+requests
+pydantic
+uvicorn
+starlette
+pandas
